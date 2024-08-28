@@ -137,6 +137,19 @@ body {
     padding-bottom: 60px;
 }
 
+@media (max-width: 900px) {
+    .ps-0-sp {
+        padding-left: 0px !important;
+    }
+
+    .pt-0-sp {
+        padding-top: 0px !important;
+    }
+
+    .pb-0-sp {
+        padding-bottom: 0px !important;
+    }
+}
 
 .container-fluid {
     position: relative;
